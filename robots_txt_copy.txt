@@ -1,0 +1,24 @@
+URL: https://omshub.org/robots.txt
+Дата проверки: 19.09.2026 10:35 UTC
+HTTP-статус: 200
+----------------------------------------
+# *
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /api/og/
+Disallow: /user/
+
+# Googlebot
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
+Disallow: /api/og/
+Disallow: /user/
+
+# Host
+Host: https://omshub.org
+
+# Sitemaps
+Sitemap: https://omshub.org/sitemap.xml
+

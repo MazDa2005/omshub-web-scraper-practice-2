@@ -1,0 +1,21 @@
+﻿course_id,course_name,n_reviews,avg_workload,avg_difficulty,avg_overall,total_on_site
+CS-6035,Introduction to Information Security,20,12.8,2.6,3.55,409
+CS-6200,Introduction to Operating Systems,20,17.5,3.8,3.95,267
+CS-6250,Computer Networks,20,11.9,2.05,3.4,333
+CS-6262,Network Security,20,11.85,2.6,4.05,128
+CS-6290,High Performance Computer Architecture,20,17.9,3.25,3.85,92
+CS-6300,Software Development Process,20,8.2,2.0,3.05,237
+CS-6310,Software Architecture and Design,20,8.8,2.5,2.15,163
+CS-6340,Software Analysis,20,10.35,2.65,4.55,139
+CS-6400,Database Systems Concepts and Design,20,11.45,2.8,2.5,232
+CS-6476,Computer Vision,20,27.85,4.55,2.05,162
+CS-6515,Intro to Graduate Algorithms,20,23.65,4.3,2.45,274
+CS-6601,Artificial Intelligence,20,19.2,3.85,4.25,244
+CS-6750,Human-Computer Interaction,20,11.55,2.35,4.15,220
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,20,15.2,3.05,3.1,230
+CS-7638,Robotics: AI Techniques,20,14.15,3.15,3.85,241
+CS-7641,Machine Learning,20,24.05,3.95,2.4,294
+CS-7642,Reinforcement Learning,20,24.0,4.4,4.05,184
+CS-7643,Deep Learning,20,24.05,4.2,3.55,76
+CS-7646,Machine Learning for Trading,20,16.35,2.85,3.55,347
+CS-7650,Natural Language Processing,7,7.43,1.86,2.86,7

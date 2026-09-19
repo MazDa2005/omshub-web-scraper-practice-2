@@ -1,0 +1,388 @@
+﻿course_id,course_name,semester,term,year,review_date,workload_hrs,difficulty,overall,verified_gt,legacy,body_words,course_total_reviews,source_url,page,scraped_at
+CS-6200,Introduction to Operating Systems,SPRING 2026,SPRING,2026,2026-06-26,20,4,5,False,False,265,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,SPRING 2026,SPRING,2026,2026-05-14,20,4,5,False,False,581,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,FALL 2023,FALL,2023,2024-06-07,17,4,5,True,False,304,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,SPRING 2024,SPRING,2024,2024-05-28,35,4,5,True,False,176,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,FALL 2023,FALL,2023,2023-12-17,20,4,5,False,False,683,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,SPRING 2023,SPRING,2023,2023-08-07,8,3,4,True,False,296,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,FALL 2022,FALL,2022,2023-01-11,17,5,5,False,False,256,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,FALL 2022,FALL,2022,2022-12-22,20,5,4,False,False,107,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,FALL 2022,FALL,2022,2022-12-14,20,3,4,True,False,349,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,SUMMER 2022,SUMMER,2022,2022-09-09,24,4,3,True,False,1311,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,SUMMER 2022,SUMMER,2022,2022-08-22,10,3,5,True,False,305,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,SPRING 2022,SPRING,2022,2022-05-09,8,3,1,False,True,848,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,SPRING 2022,SPRING,2022,2022-05-06,15,4,3,False,True,178,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,SPRING 2022,SPRING,2022,2022-04-30,20,3,2,False,True,350,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,SPRING 2022,SPRING,2022,2022-04-22,20,4,4,False,True,131,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,SPRING 2022,SPRING,2022,2022-04-22,20,5,1,False,True,218,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,FALL 2021,FALL,2021,2022-04-19,20,3,5,False,True,21,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,FALL 2021,FALL,2021,2022-01-01,8,3,4,False,True,240,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,FALL 2021,FALL,2021,2021-12-30,11,4,4,False,True,246,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6200,Introduction to Operating Systems,FALL 2021,FALL,2021,2021-12-28,17,4,5,False,True,558,267,https://omshub.org/course/CS-6200,1,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SUMMER 2024,SUMMER,2024,2024-08-10,20,5,2,False,False,0,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2024,SPRING,2024,2024-07-26,15,4,4,True,False,279,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2024,SPRING,2024,2024-02-25,40,5,1,False,False,173,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SUMMER 2023,SUMMER,2023,2023-08-14,50,5,1,False,False,399,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-05-07,20,4,1,False,True,22,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-05-06,25,4,4,False,True,458,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-05-06,30,5,1,False,True,497,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-05-06,20,4,4,False,True,376,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-05-01,30,4,1,False,True,386,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-04-28,20,5,1,False,True,19,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-04-28,15,5,1,False,True,412,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-04-27,19,5,1,False,True,1794,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-04-27,7,3,5,False,True,346,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-04-26,20,4,5,False,True,142,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-04-26,30,4,5,False,True,170,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-04-25,20,5,1,False,True,175,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-04-25,25,4,3,False,True,315,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-04-25,40,5,1,False,True,396,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-04-25,12,3,3,False,True,375,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6515,Intro to Graduate Algorithms,SPRING 2022,SPRING,2022,2022-04-25,15,3,4,False,True,597,274,https://omshub.org/course/CS-6515,2,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,SPRING 2026,SPRING,2026,2026-09-03,16,3,4,False,False,500,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,SUMMER 2026,SUMMER,2026,2026-08-14,10,4,1,False,False,358,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,SPRING 2025,SPRING,2025,2025-05-01,3,2,1,False,False,220,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,FALL 2023,FALL,2023,2023-12-21,8,2,5,True,False,152,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,SPRING 2023,SPRING,2023,2023-05-11,8,2,2,False,False,218,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,SPRING 2023,SPRING,2023,2023-05-09,8,2,1,False,False,216,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,FALL 2022,FALL,2022,2023-01-10,2,1,2,False,False,198,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,FALL 2022,FALL,2022,2022-04-21,15,2,3,False,True,71,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,SPRING 2022,SPRING,2022,2022-04-18,4,3,2,False,True,162,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,FALL 2021,FALL,2021,2021-12-22,14,2,1,False,True,409,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,FALL 2021,FALL,2021,2021-12-21,5,2,1,False,True,82,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,FALL 2021,FALL,2021,2021-12-10,7,2,3,False,True,152,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,FALL 2021,FALL,2021,2021-12-07,2,2,1,False,True,149,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,FALL 2021,FALL,2021,2021-12-04,15,4,1,False,True,30,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,FALL 2021,FALL,2021,2021-12-01,15,5,1,False,True,158,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,SUMMER 2021,SUMMER,2021,2021-08-13,8,2,1,False,True,316,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,SUMMER 2021,SUMMER,2021,2021-08-10,9,3,4,False,True,192,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,SUMMER 2021,SUMMER,2021,2021-07-29,15,3,3,False,True,925,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,SUMMER 2021,SUMMER,2021,2021-07-28,4,2,3,False,True,106,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-6310,Software Architecture and Design,SUMMER 2021,SUMMER,2021,2021-07-28,8,2,3,False,True,107,163,https://omshub.org/course/CS-6310,3,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,SPRING 2026,SPRING,2026,2026-05-08,15,3,4,True,False,63,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,FALL 2025,FALL,2025,2025-10-18,50,5,1,False,False,297,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,SPRING 2025,SPRING,2025,2025-05-09,40,4,2,False,False,46,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,SPRING 2023,SPRING,2023,2024-12-17,24,5,3,False,False,75,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,SPRING 2024,SPRING,2024,2024-05-05,8,4,4,False,False,383,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,SPRING 2023,SPRING,2023,2023-11-06,30,1,1,False,False,213,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,FALL 2022,FALL,2022,2023-01-08,22,4,4,False,False,751,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,FALL 2022,FALL,2022,2022-12-19,30,5,5,False,False,610,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,SPRING 2022,SPRING,2022,2022-08-26,29,5,1,False,False,44,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,FALL 2022,FALL,2022,2022-05-05,8,3,1,False,True,407,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,SPRING 2022,SPRING,2022,2022-04-26,27,4,2,False,True,260,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,SPRING 2022,SPRING,2022,2022-04-26,15,4,3,False,True,325,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,SPRING 2022,SPRING,2022,2022-04-20,10,4,2,False,True,165,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,SPRING 2022,SPRING,2022,2022-04-11,25,4,3,False,True,44,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,SPRING 2022,SPRING,2022,2022-04-06,20,3,1,False,True,41,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,SPRING 2022,SPRING,2022,2022-03-06,40,3,1,False,True,80,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,FALL 2020,FALL,2020,2022-02-10,25,5,3,False,True,48,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,FALL 2021,FALL,2021,2021-12-30,18,4,5,False,True,154,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,FALL 2021,FALL,2021,2021-12-22,20,5,1,False,True,195,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-7641,Machine Learning,FALL 2021,FALL,2021,2021-12-22,25,4,1,False,True,137,294,https://omshub.org/course/CS-7641,4,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2026,SPRING,2026,2026-05-21,25,4,5,True,False,802,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2025,SPRING,2025,2025-04-29,18,4,5,False,False,186,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2024,SPRING,2024,2024-06-19,15,5,4,False,False,645,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,FALL 2023,FALL,2023,2023-12-13,22,5,5,True,False,26,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,FALL 2022,FALL,2022,2022-12-17,20,4,5,False,False,677,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2022,SPRING,2022,2022-11-01,20,5,4,False,False,27,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2020,SPRING,2020,2022-08-29,25,4,5,False,False,72,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SUMMER 2022,SUMMER,2022,2022-08-23,15,4,5,False,False,237,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2022,SPRING,2022,2022-05-08,15,3,4,False,True,71,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,FALL 2022,FALL,2022,2022-05-06,17,4,5,False,True,291,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2022,SPRING,2022,2022-05-06,15,3,3,False,True,450,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2022,SPRING,2022,2022-05-06,15,3,3,False,True,377,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2022,SPRING,2022,2022-05-06,15,3,4,False,True,276,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2022,SPRING,2022,2022-05-05,22,4,4,False,True,393,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2022,SPRING,2022,2022-05-03,30,4,5,False,True,103,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2022,SPRING,2022,2022-05-01,18,4,4,False,True,360,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2022,SPRING,2022,2022-04-26,30,5,1,False,True,212,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2022,SPRING,2022,2022-04-26,12,3,4,False,True,293,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2022,SPRING,2022,2022-04-09,10,2,5,False,True,448,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-6601,Artificial Intelligence,SPRING 2022,SPRING,2022,2022-04-01,25,4,5,False,True,38,244,https://omshub.org/course/CS-6601,5,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,FALL 2023,FALL,2023,2023-10-26,20,5,2,False,False,10,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,SUMMER 2021,SUMMER,2021,2023-10-26,20,5,2,False,False,19,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,SPRING 2022,SPRING,2022,2022-08-22,12,4,5,True,False,411,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,SPRING 2022,SPRING,2022,2022-05-08,20,5,5,False,True,282,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,SPRING 2022,SPRING,2022,2022-05-06,50,5,5,False,True,1436,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,SPRING 2022,SPRING,2022,2022-05-06,25,4,5,False,True,305,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,FALL 2021,FALL,2021,2021-12-27,25,4,4,False,True,632,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,FALL 2021,FALL,2021,2021-12-14,35,5,5,False,True,896,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,FALL 2021,FALL,2021,2021-11-25,50,5,5,False,True,31,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,FALL 2021,FALL,2021,2021-11-18,25,4,3,False,True,290,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,SUMMER 2021,SUMMER,2021,2021-09-21,30,5,4,False,True,36,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,SPRING 2021,SPRING,2021,2021-09-04,15,4,4,False,True,74,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,SUMMER 2021,SUMMER,2021,2021-08-23,20,5,5,False,True,346,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,SUMMER 2021,SUMMER,2021,2021-08-03,15,3,3,False,True,322,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,SUMMER 2021,SUMMER,2021,2021-08-01,25,5,4,False,True,691,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,SPRING 2021,SPRING,2021,2021-06-23,20,5,5,False,True,176,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,SUMMER 2021,SUMMER,2021,2021-06-06,20,3,1,False,True,29,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,SPRING 2021,SPRING,2021,2021-05-21,16,4,5,False,True,1299,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,SPRING 2021,SPRING,2021,2021-05-11,12,4,5,False,True,129,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7642,Reinforcement Learning,FALL 2020,FALL,2020,2021-05-05,25,4,4,False,True,409,184,https://omshub.org/course/CS-7642,6,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,SPRING 2026,SPRING,2026,2026-04-27,12,3,2,False,False,355,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,SPRING 2025,SPRING,2025,2025-05-04,22,4,2,False,False,73,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,SPRING 2024,SPRING,2024,2024-12-31,9,3,4,False,False,133,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,SPRING 2022,SPRING,2022,2024-05-05,12,2,5,True,False,140,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,FALL 2023,FALL,2023,2023-12-21,10,3,2,True,False,470,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,SPRING 2023,SPRING,2023,2023-05-04,10,4,1,False,False,94,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,SPRING 2023,SPRING,2023,2023-04-12,15,2,2,True,False,437,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,SPRING 2023,SPRING,2023,2023-03-29,17,2,1,False,False,453,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,FALL 2022,FALL,2022,2022-12-16,15,4,5,False,False,946,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,SPRING 2021,SPRING,2021,2022-12-13,12,4,4,False,False,32,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,FALL 2022,FALL,2022,2022-12-12,14,3,2,True,False,793,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,FALL 2022,FALL,2022,2022-12-07,10,3,3,True,False,318,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,SUMMER 2022,SUMMER,2022,2022-10-18,30,4,1,False,False,103,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,FALL 2022,FALL,2022,2022-10-04,22,4,1,False,False,365,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,SPRING 2022,SPRING,2022,2022-05-08,15,3,4,False,True,208,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,SPRING 2022,SPRING,2022,2022-05-07,17,3,4,False,True,237,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,SPRING 2022,SPRING,2022,2022-05-05,20,3,5,False,True,570,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,SPRING 2022,SPRING,2022,2022-05-04,8,2,4,False,True,361,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,SPRING 2022,SPRING,2022,2022-05-02,10,2,5,False,True,44,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-7637,Knowledge-Based Artificial Intelligence - Cognitive Systems,SPRING 2022,SPRING,2022,2022-04-22,24,3,5,False,True,321,230,https://omshub.org/course/CS-7637,7,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,FALL 2024,FALL,2024,2026-08-14,12,3,5,False,False,42,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,FALL 2025,FALL,2025,2026-07-21,12,2,4,False,False,99,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,SPRING 2026,SPRING,2026,2026-05-21,6,3,4,False,False,265,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,FALL 2025,FALL,2025,2026-01-05,6,2,4,False,False,257,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,SPRING 2023,SPRING,2023,2024-06-14,12,3,4,True,False,234,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,SPRING 2024,SPRING,2024,2024-05-05,11,2,3,False,False,630,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,SPRING 2024,SPRING,2024,2024-05-04,20,5,1,False,False,595,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,FALL 2022,FALL,2022,2023-01-10,8,3,5,False,False,68,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,FALL 2022,FALL,2022,2023-01-07,7,2,4,False,False,24,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,SUMMER 2022,SUMMER,2022,2022-08-21,15,2,4,False,False,545,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,SPRING 2022,SPRING,2022,2022-05-07,8,2,5,False,True,262,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,SPRING 2022,SPRING,2022,2022-05-06,12,2,5,False,True,24,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,FALL 2021,FALL,2021,2022-03-23,15,2,4,False,True,125,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,FALL 2021,FALL,2021,2022-03-12,10,1,5,False,True,433,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,FALL 2020,FALL,2020,2022-01-20,15,2,5,False,True,172,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,FALL 2021,FALL,2021,2022-01-03,10,2,4,False,True,351,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,FALL 2021,FALL,2021,2021-12-26,15,2,5,False,True,486,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,FALL 2021,FALL,2021,2021-12-25,12,2,4,False,True,198,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,FALL 2021,FALL,2021,2021-12-22,10,2,3,False,True,115,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6750,Human-Computer Interaction,FALL 2021,FALL,2021,2021-12-16,15,3,5,False,True,455,220,https://omshub.org/course/CS-6750,8,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,SPRING 2025,SPRING,2025,2025-04-17,15,3,4,False,False,188,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,SPRING 2025,SPRING,2025,2025-03-30,30,3,4,True,False,165,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,FALL 2024,FALL,2024,2024-12-18,20,4,4,False,False,132,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,FALL 2024,FALL,2024,2024-12-09,33,4,5,True,False,170,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,FALL 2024,FALL,2024,2024-12-06,25,4,2,False,False,356,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,SUMMER 2023,SUMMER,2023,2024-06-28,10,3,4,True,False,256,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,SUMMER 2023,SUMMER,2023,2023-08-16,7,2,2,False,False,10,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,FALL 2022,FALL,2022,2023-05-05,5,1,4,False,False,144,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,SPRING 2023,SPRING,2023,2023-04-10,6,3,1,False,False,435,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,FALL 2022,FALL,2022,2023-01-11,5,1,5,False,False,175,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,FALL 2022,FALL,2022,2023-01-04,10,2,4,True,False,1225,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,SPRING 2022,SPRING,2022,2022-05-02,4,1,4,False,True,168,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,SPRING 2022,SPRING,2022,2022-04-29,10,2,4,False,True,144,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,SPRING 2022,SPRING,2022,2022-04-24,11,2,5,False,True,88,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,SPRING 2022,SPRING,2022,2022-04-23,8,3,4,False,True,195,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,SPRING 2022,SPRING,2022,2022-04-22,10,3,4,False,True,221,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,SPRING 2022,SPRING,2022,2022-04-22,15,3,1,False,True,79,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,SPRING 2022,SPRING,2022,2022-04-22,9,3,2,False,True,496,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,SPRING 2022,SPRING,2022,2022-04-20,8,2,5,False,True,353,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6035,Introduction to Information Security,FALL 2021,FALL,2021,2022-04-17,15,3,3,False,True,149,409,https://omshub.org/course/CS-6035,9,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,FALL 2025,FALL,2025,2025-12-12,12,3,3,False,False,160,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,SUMMER 2023,SUMMER,2023,2024-06-05,6,2,3,True,False,238,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,FALL 2023,FALL,2023,2024-05-04,5,2,3,False,False,50,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,SUMMER 2023,SUMMER,2023,2023-07-30,6,2,4,False,False,437,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,SUMMER 2023,SUMMER,2023,2023-07-30,10,2,2,True,False,2431,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,FALL 2022,FALL,2022,2022-12-08,7,2,3,True,False,159,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,SUMMER 2022,SUMMER,2022,2022-08-26,7,2,4,False,False,55,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,SPRING 2022,SPRING,2022,2022-05-05,100,5,3,False,True,13,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,SPRING 2022,SPRING,2022,2022-05-03,12,3,5,False,True,241,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,SPRING 2022,SPRING,2022,2022-05-01,7,2,4,False,True,179,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,SPRING 2022,SPRING,2022,2022-05-01,6,2,4,False,True,164,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,SPRING 2022,SPRING,2022,2022-05-01,4,1,3,False,True,73,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,SPRING 2022,SPRING,2022,2022-04-30,6,2,5,False,True,368,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,SPRING 2022,SPRING,2022,2022-04-29,8,1,4,False,True,109,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,SPRING 2022,SPRING,2022,2022-04-28,3,1,2,False,True,92,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,SPRING 2022,SPRING,2022,2022-04-24,8,2,5,False,True,700,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,FALL 2021,FALL,2021,2022-04-19,12,2,3,False,True,32,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,SPRING 2022,SPRING,2022,2022-03-30,8,2,1,False,True,280,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,FALL 2021,FALL,2021,2021-12-30,6,2,4,False,True,227,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6250,Computer Networks,FALL 2021,FALL,2021,2021-12-17,5,1,3,False,True,346,333,https://omshub.org/course/CS-6250,10,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,FALL 2024,FALL,2024,2024-12-08,10,3,4,False,False,320,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,SPRING 2024,SPRING,2024,2024-04-21,9,2,4,True,False,706,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,SPRING 2022,SPRING,2022,2022-05-07,10,3,3,False,True,118,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,SPRING 2022,SPRING,2022,2022-05-05,10,3,4,False,True,701,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,SPRING 2022,SPRING,2022,2022-05-02,12,3,4,False,True,162,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,SPRING 2022,SPRING,2022,2022-05-02,10,2,1,False,True,214,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,SPRING 2022,SPRING,2022,2022-04-29,10,4,1,False,True,243,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,SPRING 2022,SPRING,2022,2022-04-09,10,1,1,False,True,176,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,SPRING 2022,SPRING,2022,2022-03-20,8,2,1,False,True,32,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,FALL 2021,FALL,2021,2022-02-10,10,3,3,False,True,85,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,FALL 2021,FALL,2021,2022-01-18,10,3,4,False,True,156,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,FALL 2021,FALL,2021,2021-12-27,12,2,3,False,True,504,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,FALL 2021,FALL,2021,2021-12-22,15,3,3,False,True,211,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,FALL 2021,FALL,2021,2021-12-22,12,3,4,False,True,237,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,FALL 2021,FALL,2021,2021-12-21,5,3,4,False,True,196,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,FALL 2021,FALL,2021,2021-12-19,10,3,1,False,True,77,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,FALL 2021,FALL,2021,2021-12-17,15,3,1,False,True,298,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,FALL 2021,FALL,2021,2021-12-17,20,4,1,False,True,666,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,FALL 2021,FALL,2021,2021-12-16,16,3,2,False,True,562,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-6400,Database Systems Concepts and Design,FALL 2021,FALL,2021,2021-12-16,15,3,1,False,True,336,232,https://omshub.org/course/CS-6400,11,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SPRING 2026,SPRING,2026,2026-05-19,16,3,4,False,False,168,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,FALL 2023,FALL,2023,2024-12-17,10,3,5,False,False,80,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SUMMER 2024,SUMMER,2024,2024-08-21,12,2,3,False,False,462,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,FALL 2023,FALL,2023,2023-12-15,16,4,4,False,False,500,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SPRING 2023,SPRING,2023,2023-10-27,15,3,5,True,False,13,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,FALL 2021,FALL,2021,2023-09-07,5,3,5,False,False,20,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SPRING 2023,SPRING,2023,2023-08-07,5,2,4,True,False,218,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SPRING 2023,SPRING,2023,2023-06-09,12,3,4,False,False,10,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SPRING 2023,SPRING,2023,2023-05-04,10,3,4,False,False,351,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SPRING 2022,SPRING,2022,2022-08-23,12,3,4,False,False,308,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SPRING 2022,SPRING,2022,2022-05-08,18,3,4,False,True,219,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SPRING 2022,SPRING,2022,2022-05-06,8,2,4,False,True,66,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SPRING 2022,SPRING,2022,2022-05-03,8,2,5,False,True,357,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,FALL 2017,FALL,2017,2022-05-02,100,3,3,False,True,44,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SPRING 2022,SPRING,2022,2022-05-01,12,3,3,False,True,559,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SPRING 2022,SPRING,2022,2022-05-01,15,2,1,False,True,328,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SPRING 2022,SPRING,2022,2022-04-17,3,3,2,False,True,266,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SPRING 2022,SPRING,2022,2022-04-08,15,3,2,False,True,581,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SPRING 2022,SPRING,2022,2022-04-07,15,3,4,False,True,130,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-7646,Machine Learning for Trading,SPRING 2022,SPRING,2022,2022-03-12,20,4,1,False,True,1320,347,https://omshub.org/course/CS-7646,12,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,SPRING 2022,SPRING,2022,2022-04-30,30,5,1,False,True,72,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,SPRING 2022,SPRING,2022,2022-03-24,30,5,1,False,True,485,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,SPRING 2022,SPRING,2022,2022-02-21,25,3,4,False,True,115,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2022-02-21,40,5,1,False,True,15,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2022-02-04,24,4,4,False,True,268,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2021-12-28,25,4,1,False,True,880,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2021-12-22,30,4,4,False,True,447,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2021-12-17,30,4,2,False,True,155,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2021-12-15,30,5,1,False,True,473,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2021-12-13,15,3,4,False,True,386,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2021-12-10,30,5,1,False,True,327,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2021-12-10,30,5,2,False,True,90,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2021-12-09,25,5,1,False,True,91,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2021-12-05,30,5,1,False,True,221,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2021-12-05,18,4,4,False,True,234,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2021-12-05,35,5,4,False,True,25,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2021-12-04,25,5,2,False,True,329,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2021-12-03,30,5,1,False,True,101,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2021-12-03,30,5,1,False,True,390,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-6476,Computer Vision,FALL 2021,FALL,2021,2021-11-04,25,5,1,False,True,356,162,https://omshub.org/course/CS-6476,13,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,SUMMER 2024,SUMMER,2024,2026-05-09,30,5,4,True,False,39,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,FALL 2024,FALL,2024,2024-12-17,25,5,5,False,False,161,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,FALL 2023,FALL,2023,2024-01-29,20,5,4,False,False,367,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,SPRING 2023,SPRING,2023,2023-07-31,30,3,1,False,False,454,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,SPRING 2021,SPRING,2021,2022-08-29,25,4,2,False,False,231,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,FALL 2021,FALL,2021,2022-08-21,35,5,5,False,False,17,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,SPRING 2022,SPRING,2022,2022-05-08,25,3,5,False,True,192,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,SPRING 2022,SPRING,2022,2022-05-08,25,4,3,False,True,411,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,SPRING 2022,SPRING,2022,2022-05-07,20,4,5,False,True,296,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,SPRING 2022,SPRING,2022,2022-04-27,25,4,4,False,True,119,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,SPRING 2022,SPRING,2022,2022-04-11,25,5,3,False,True,214,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,SPRING 2022,SPRING,2022,2022-04-11,20,4,1,False,True,358,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,SPRING 2022,SPRING,2022,2022-03-23,30,5,2,False,True,96,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,SPRING 2022,SPRING,2022,2022-03-14,20,4,4,False,True,190,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,SPRING 2022,SPRING,2022,2022-03-14,20,5,1,False,True,669,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,SPRING 2022,SPRING,2022,2022-02-13,20,3,5,False,True,293,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,FALL 2021,FALL,2021,2022-01-23,30,4,5,False,True,706,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,FALL 2021,FALL,2021,2022-01-15,20,4,4,False,True,433,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,FALL 2021,FALL,2021,2021-12-29,18,4,3,False,True,745,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7643,Deep Learning,FALL 2021,FALL,2021,2021-12-28,18,4,5,False,True,693,76,https://omshub.org/course/CS-7643,14,2026-09-19 10:36:44 UTC
+CS-7650,Natural Language Processing,FALL 2025,FALL,2025,2025-12-18,8,2,2,False,False,341,7,https://omshub.org/course/CS-7650,15,2026-09-19 10:36:44 UTC
+CS-7650,Natural Language Processing,SUMMER 2025,SUMMER,2025,2025-08-13,10,4,3,False,False,355,7,https://omshub.org/course/CS-7650,15,2026-09-19 10:36:44 UTC
+CS-7650,Natural Language Processing,SUMMER 2024,SUMMER,2024,2024-08-18,5,1,3,True,False,217,7,https://omshub.org/course/CS-7650,15,2026-09-19 10:36:44 UTC
+CS-7650,Natural Language Processing,SPRING 2024,SPRING,2024,2024-04-25,4,1,2,False,False,503,7,https://omshub.org/course/CS-7650,15,2026-09-19 10:36:44 UTC
+CS-7650,Natural Language Processing,FALL 2023,FALL,2023,2023-12-12,5,1,2,False,False,444,7,https://omshub.org/course/CS-7650,15,2026-09-19 10:36:44 UTC
+CS-7650,Natural Language Processing,FALL 2023,FALL,2023,2023-11-16,5,1,3,True,False,306,7,https://omshub.org/course/CS-7650,15,2026-09-19 10:36:44 UTC
+CS-7650,Natural Language Processing,SUMMER 2023,SUMMER,2023,2023-07-31,15,3,5,False,False,217,7,https://omshub.org/course/CS-7650,15,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,SUMMER 2025,SUMMER,2025,2025-07-22,4,1,3,True,False,59,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,SPRING 2024,SPRING,2024,2024-12-30,4,2,3,False,False,171,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,SPRING 2023,SPRING,2023,2024-06-22,5,2,3,True,False,228,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,SPRING 2023,SPRING,2023,2024-05-05,10,1,4,True,False,164,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,SPRING 2022,SPRING,2022,2022-04-25,10,2,3,False,True,279,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,SPRING 2022,SPRING,2022,2022-04-24,10,3,5,False,True,75,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,SPRING 2022,SPRING,2022,2022-04-21,12,2,5,False,True,416,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,SPRING 2022,SPRING,2022,2022-04-04,10,2,2,False,True,124,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,SPRING 2022,SPRING,2022,2022-04-01,10,2,2,False,True,128,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,FALL 2022,FALL,2022,2022-03-27,8,1,1,False,True,91,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,FALL 2021,FALL,2021,2022-01-27,6,2,5,False,True,67,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,FALL 2021,FALL,2021,2022-01-02,7,1,1,False,True,237,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,FALL 2021,FALL,2021,2021-12-25,8,2,5,False,True,210,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,FALL 2021,FALL,2021,2021-12-22,3,2,4,False,True,117,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,FALL 2021,FALL,2021,2021-12-22,10,2,1,False,True,156,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,FALL 2021,FALL,2021,2021-12-20,12,3,1,False,True,273,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,FALL 2021,FALL,2021,2021-12-13,13,3,3,False,True,69,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,FALL 2021,FALL,2021,2021-12-04,13,3,3,False,True,70,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,FALL 2021,FALL,2021,2021-11-08,5,3,4,False,True,326,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6300,Software Development Process,SUMMER 2021,SUMMER,2021,2021-08-10,4,1,3,False,True,159,237,https://omshub.org/course/CS-6300,16,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,SPRING 2026,SPRING,2026,2026-05-14,12,3,5,False,False,591,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,FALL 2023,FALL,2023,2024-07-09,15,4,5,True,False,267,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,SUMMER 2023,SUMMER,2023,2024-05-06,15,3,4,True,False,142,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,FALL 2023,FALL,2023,2023-12-11,15,3,5,True,False,1686,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,SPRING 2022,SPRING,2022,2022-05-08,6,2,5,False,True,98,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,SPRING 2022,SPRING,2022,2022-05-07,18,4,4,False,True,334,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,SPRING 2022,SPRING,2022,2022-05-03,16,4,4,False,True,183,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,SPRING 2022,SPRING,2022,2022-05-01,6,3,4,False,True,124,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,SPRING 2022,SPRING,2022,2022-04-19,15,3,3,False,True,44,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,SPRING 2021,SPRING,2021,2021-08-11,15,4,3,False,True,408,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,SUMMER 2021,SUMMER,2021,2021-08-08,13,3,5,False,True,497,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,SPRING 2021,SPRING,2021,2021-07-15,10,4,4,False,True,168,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,SPRING 2021,SPRING,2021,2021-06-25,14,3,5,False,True,738,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,SPRING 2021,SPRING,2021,2021-05-01,15,3,3,False,True,141,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,SUMMER 2021,SUMMER,2021,2021-02-25,100,1,4,False,True,7,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,FALL 2020,FALL,2020,2021-02-13,25,4,1,False,True,200,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,FALL 2020,FALL,2020,2021-01-20,13,3,4,False,True,251,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,FALL 2020,FALL,2020,2021-01-16,8,3,5,False,True,93,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,FALL 2020,FALL,2020,2020-12-19,15,4,3,False,True,172,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-6290,High Performance Computer Architecture,FALL 2020,FALL,2020,2020-12-18,12,4,1,False,True,28,92,https://omshub.org/course/CS-6290,17,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,SPRING 2024,SPRING,2024,2024-05-24,10,3,5,True,False,187,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,FALL 2023,FALL,2023,2024-05-05,14,4,5,True,False,124,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,SUMMER 2023,SUMMER,2023,2023-10-27,15,3,5,True,False,16,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,FALL 2022,FALL,2022,2022-12-22,12,4,5,False,False,36,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,SUMMER 2022,SUMMER,2022,2022-08-21,12,3,5,False,False,914,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,SPRING 2022,SPRING,2022,2022-05-08,12,3,4,False,True,155,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,SPRING 2022,SPRING,2022,2022-05-06,10,1,5,False,True,159,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,SPRING 2022,SPRING,2022,2022-04-30,15,3,5,False,True,230,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,SPRING 2022,SPRING,2022,2022-03-30,20,3,3,False,True,533,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,SPRING 2022,SPRING,2022,2022-02-10,14,4,2,False,True,190,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,FALL 2022,FALL,2022,2022-02-08,20,4,2,False,True,28,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,FALL 2021,FALL,2021,2021-12-17,10,3,5,False,True,160,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,FALL 2021,FALL,2021,2021-12-16,24,1,1,False,True,162,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,FALL 2021,FALL,2021,2021-12-14,15,2,5,False,True,125,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,FALL 2021,FALL,2021,2021-12-14,12,4,4,False,True,206,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,FALL 2021,FALL,2021,2021-12-13,15,4,1,False,True,545,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,FALL 2021,FALL,2021,2021-12-12,8,4,4,False,True,503,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,FALL 2021,FALL,2021,2021-12-08,15,4,5,False,True,313,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,FALL 2021,FALL,2021,2021-12-04,10,2,5,False,True,225,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-7638,Robotics: AI Techniques,FALL 2021,FALL,2021,2021-12-01,20,4,1,False,True,164,241,https://omshub.org/course/CS-7638,18,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,FALL 2023,FALL,2023,2024-07-27,6,3,4,False,False,68,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,SUMMER 2023,SUMMER,2023,2023-08-14,10,2,5,False,False,174,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,FALL 2022,FALL,2022,2022-12-14,10,2,5,False,False,1251,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,SPRING 2022,SPRING,2022,2022-05-03,12,3,5,False,True,429,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,SPRING 2022,SPRING,2022,2022-05-02,10,4,5,False,True,67,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,SPRING 2022,SPRING,2022,2022-04-03,5,2,5,False,True,880,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,SPRING 2022,SPRING,2022,2022-03-25,10,2,5,False,True,428,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,SPRING 2022,SPRING,2022,2022-03-05,15,3,5,False,True,246,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,FALL 2021,FALL,2021,2022-02-01,5,3,4,False,True,166,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,FALL 2021,FALL,2021,2021-12-03,4,2,4,False,True,252,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,SUMMER 2021,SUMMER,2021,2021-08-15,12,3,2,False,True,346,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,SUMMER 2021,SUMMER,2021,2021-08-08,6,2,5,False,True,139,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,SUMMER 2021,SUMMER,2021,2021-08-07,5,2,5,False,True,313,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,SUMMER 2021,SUMMER,2021,2021-08-05,15,3,4,False,True,141,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,FALL 2020,FALL,2020,2021-08-01,9,2,5,False,True,67,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,SPRING 2021,SPRING,2021,2021-05-15,6,2,4,False,True,95,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,SPRING 2021,SPRING,2021,2021-05-07,30,3,4,False,True,386,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,SPRING 2021,SPRING,2021,2021-05-05,15,3,5,False,True,289,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,SPRING 2021,SPRING,2021,2021-05-03,15,4,5,False,True,240,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6340,Software Analysis,SPRING 2021,SPRING,2021,2021-05-01,7,3,5,False,True,149,139,https://omshub.org/course/CS-6340,19,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,FALL 2025,FALL,2025,2025-11-24,1,2,4,True,False,127,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,FALL 2022,FALL,2022,2022-12-07,9,3,2,False,False,273,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,SPRING 2022,SPRING,2022,2022-05-06,14,3,5,False,True,1598,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,SPRING 2022,SPRING,2022,2022-05-03,4,2,5,False,True,839,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,FALL 2021,FALL,2021,2022-04-29,12,3,5,False,True,41,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,SPRING 2022,SPRING,2022,2022-04-04,9,3,3,False,True,81,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,FALL 2021,FALL,2021,2021-11-21,13,2,4,False,True,205,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,SPRING 2021,SPRING,2021,2021-11-16,8,2,3,False,True,131,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,SUMMER 2021,SUMMER,2021,2021-09-01,10,3,4,False,True,57,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,SUMMER 2021,SUMMER,2021,2021-08-01,10,2,4,False,True,183,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,SUMMER 2021,SUMMER,2021,2021-07-27,10,2,4,False,True,29,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,SPRING 2021,SPRING,2021,2021-06-12,15,3,5,False,True,76,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,FALL 2020,FALL,2020,2021-06-09,10,3,4,False,True,70,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,SPRING 2021,SPRING,2021,2021-05-07,10,2,4,False,True,47,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,FALL 2020,FALL,2020,2021-05-07,25,3,4,False,True,24,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,FALL 2021,FALL,2021,2021-05-04,15,3,4,False,True,32,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,SPRING 2021,SPRING,2021,2021-05-03,10,3,4,False,True,433,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,SPRING 2021,SPRING,2021,2021-04-27,12,3,5,False,True,170,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,SPRING 2021,SPRING,2021,2021-04-26,20,3,4,False,True,253,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC
+CS-6262,Network Security,FALL 2021,FALL,2021,2021-04-18,20,2,4,False,True,7,128,https://omshub.org/course/CS-6262,20,2026-09-19 10:36:44 UTC

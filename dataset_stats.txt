@@ -1,0 +1,65 @@
+Источник: https://omshub.org/
+Дата и время сбора (UTC): 19.09.2026 10:36
+Число строк: 387
+Число курсов (страниц): 20
+Курсы с ошибками: нет
+
+Пропуски по полям:
+course_id               0
+course_name             0
+semester                0
+term                    0
+year                    0
+review_date             0
+workload_hrs            0
+difficulty              0
+overall                 0
+verified_gt             0
+legacy                  0
+body_words              0
+course_total_reviews    0
+source_url              0
+page                    0
+scraped_at              0
+
+Числовые поля:
+       workload_hrs  difficulty  overall  body_words
+count        387.00      387.00   387.00      387.00
+mean          16.20        3.18     3.38      291.60
+std           11.42        1.12     1.45      288.34
+min            1.00        1.00     1.00        0.00
+25%           10.00        2.00     2.00      115.00
+50%           15.00        3.00     4.00      217.00
+75%           20.00        4.00     5.00      371.50
+max          100.00        5.00     5.00     2431.00
+
+Проверки качества:
+  - Полных дубликатов нет
+  - Оценки вне 1–5 (difficulty/overall): 0
+  - Некорректный workload (<=0 или >80 ч/нед): 3
+  - Записей без даты: 0
+  - Записей с пометкой Legacy (перенесены со старой платформы): 260
+  - Записей с пометкой Verified GT email: 41
+
+Свод по курсам (course_summary.csv):
+course_id                                                 course_name  n_reviews  avg_workload  avg_difficulty  avg_overall  total_on_site
+  CS-6035                        Introduction to Information Security         20         12.80            2.60         3.55            409
+  CS-6200                           Introduction to Operating Systems         20         17.50            3.80         3.95            267
+  CS-6250                                           Computer Networks         20         11.90            2.05         3.40            333
+  CS-6262                                            Network Security         20         11.85            2.60         4.05            128
+  CS-6290                      High Performance Computer Architecture         20         17.90            3.25         3.85             92
+  CS-6300                                Software Development Process         20          8.20            2.00         3.05            237
+  CS-6310                            Software Architecture and Design         20          8.80            2.50         2.15            163
+  CS-6340                                           Software Analysis         20         10.35            2.65         4.55            139
+  CS-6400                        Database Systems Concepts and Design         20         11.45            2.80         2.50            232
+  CS-6476                                             Computer Vision         20         27.85            4.55         2.05            162
+  CS-6515                                Intro to Graduate Algorithms         20         23.65            4.30         2.45            274
+  CS-6601                                     Artificial Intelligence         20         19.20            3.85         4.25            244
+  CS-6750                                  Human-Computer Interaction         20         11.55            2.35         4.15            220
+  CS-7637 Knowledge-Based Artificial Intelligence - Cognitive Systems         20         15.20            3.05         3.10            230
+  CS-7638                                     Robotics: AI Techniques         20         14.15            3.15         3.85            241
+  CS-7641                                            Machine Learning         20         24.05            3.95         2.40            294
+  CS-7642                                      Reinforcement Learning         20         24.00            4.40         4.05            184
+  CS-7643                                               Deep Learning         20         24.05            4.20         3.55             76
+  CS-7646                                Machine Learning for Trading         20         16.35            2.85         3.55            347
+  CS-7650                                 Natural Language Processing          7          7.43            1.86         2.86              7
