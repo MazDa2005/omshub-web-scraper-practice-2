@@ -1,0 +1,4 @@
+node,actor_type,neighbors,out_w,in_w,in_out_ratio,reciprocated_nbrs,clustering,burstiness_B,max_1h_window_share,top_template_share,communities_touched,own_community,flags,verdict
+user_179,User,267,627,305,0.486,0.24,0.0096,0.282,0.01,0.006,12,0,звёздная окрестность (clustering<0.02),недостаточно данных (проверить вручную)
+user_044,User,224,498,281,0.564,0.241,0.0131,0.345,0.036,0.03,11,1,звёздная окрестность (clustering<0.02),недостаточно данных (проверить вручную)
+user_433,User,83,135,91,0.674,0.181,0.035,0.314,0.044,0.015,8,2,,подлинный хаб

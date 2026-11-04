@@ -1,0 +1,40 @@
+{
+  "graph": {
+    "type": "DiGraph (направленный, взвешенный: weight = число взаимодействий)",
+    "interactions": 2400,
+    "nodes": 457,
+    "edges": 1051,
+    "density": 0.00504,
+    "weak_components": 5,
+    "strong_components": 325,
+    "lcc_share": 0.982,
+    "reciprocity": 0.343,
+    "edge_types": {
+      "reply": 1584,
+      "mention": 816
+    },
+    "bots_in_graph": 0,
+    "betweenness_mode": "точная"
+  },
+  "communities": {
+    "method": "Louvain (networkx.louvain_communities)",
+    "count": 18,
+    "Q": 0.3211,
+    "Q_louvain": 0.3211,
+    "Q_greedy": 0.3199,
+    "singletons": 0,
+    "sizes_top5": [
+      150,
+      120,
+      54,
+      45,
+      21
+    ]
+  },
+  "privacy": {
+    "leaf_share": 0.414,
+    "deg_le2_share": 0.683,
+    "unique_1hop_signature_share": 0.256,
+    "threads": 634
+  }
+}

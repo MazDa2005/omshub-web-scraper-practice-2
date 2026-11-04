@@ -1,0 +1,7 @@
+requests
+python-dotenv
+pandas
+networkx>=3.0
+matplotlib
+numpy
+scipy
