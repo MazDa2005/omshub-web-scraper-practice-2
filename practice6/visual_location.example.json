@@ -1,0 +1,16 @@
+{
+  "filename": "photo_without_gps.jpg",
+  "latitude": null,
+  "longitude": null,
+  "place": "",
+  "map_url": "",
+  "accuracy_m": null,
+  "confidence": "",
+  "observations": [
+    {"feature": "Ориентир", "observation": "", "inference": ""},
+    {"feature": "Архитектура", "observation": "", "inference": ""},
+    {"feature": "Вывески и язык", "observation": "", "inference": ""}
+  ],
+  "alternative": "",
+  "verification": ""
+}

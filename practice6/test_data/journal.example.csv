@@ -1,0 +1,7 @@
+filename,kind,expected_gps,origin,obtained_at,notes
+photo_with_gps_1.jpg,image,yes,own,,Заполнить дату включения в набор и настройки съёмки
+photo_with_gps_2.jpg,image,yes,own,,Заполнить дату включения в набор и настройки съёмки
+photo_without_gps.jpg,image,no,own,,Выбран для визуальной геолокации
+photo_without_gps_2.jpg,image,no,own,,Заполнить дату включения в набор и настройки съёмки
+document_1.docx,document,n/a,own,,Собственный учебный документ
+document_2.pdf,document,n/a,own,,Собственный учебный документ

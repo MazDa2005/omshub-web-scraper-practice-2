@@ -1,0 +1,9 @@
+out_pz6/
+__pycache__/
+visual_location.json
+test_data/*
+!test_data/journal.example.csv
+*.docx
+*.pdf
+Отчёт*.md
+*.log
